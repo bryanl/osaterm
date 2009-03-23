@@ -1,0 +1,3 @@
+#!/bin/sh
+
+osascript -e 'tell application "Finder" to get POSIX path of (target of window 1 as alias)'
