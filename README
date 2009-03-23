@@ -1,5 +1,7 @@
 A set of scripts with Finder/iTerm helpers
 
+pwdf - Gets the current directory of the front finder window
+
 Copyright (c) 2009 Bryan Liles <iam AT smartic.us>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
